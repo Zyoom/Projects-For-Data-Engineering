@@ -1,0 +1,10 @@
+2024-05-26 17:36:19,104 - Starting data extraction
+2024-05-26 17:36:20,105 - Data extraction completed
+2024-05-26 17:36:20,114 - Starting data transformation
+2024-05-26 17:36:20,639 - Data transformation completed
+2024-05-26 17:36:20,647 - Starting data load to CSV
+2024-05-26 17:36:20,650 - Data load to CSV completed
+2024-05-26 17:36:20,650 - Starting data load to database
+2024-05-26 17:36:20,655 - Data load to database completed
+2024-05-26 17:36:20,655 - Running query: SELECT * FROM Largest_banks
+2024-05-26 17:36:20,656 - Query execution completed
